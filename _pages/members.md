@@ -205,7 +205,7 @@ nav: false
           <img src="{{ '/assets/img/team/MinsooKang.jpeg' | relative_url }}" alt="Minsoo Kang">
         </div>
         <div class="member-content">
-          <h3>Sung Jin Um</h3>
+          <h3>Minsoo Kang</h3>
           <span class="member-role">Undergraduate Researcher</span>
           <p class="member-research">3D Object Detection</p>
           <p class="member-email"><a href="mailto:oswin0223@khu.ac.kr">sungzin1@khu.ac.kr</a></p>
