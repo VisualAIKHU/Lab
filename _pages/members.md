@@ -188,20 +188,6 @@ nav: false
 
     <div class="member-grid">
 
-      <div class="team-member" data-aos="fade-up" data-aos-delay="50">
-        <div class="member-image">
-          <img src="{{ '/assets/img/team/Sung%20Jin%20Um.jpg' | relative_url }}" alt="Sung Jin Um">
-        </div>
-        <div class="member-content">
-          <h3>Sung Jin Um</h3>
-          <span class="member-role">Undergraduate Researcher</span>
-          <p class="member-research">Multimodal Learning<br>Sound Source Localization</p>
-          <p class="member-email"><a href="mailto:sungzin1@khu.ac.kr">sungzin1@khu.ac.kr</a></p>
-        </div>
-      </div>
-
-      
-
       <div class="team-member" data-aos="fade-up" data-aos-delay="150">
         <div class="member-image">
           <img src="{{ '/assets/img/team/MinSeo%20Kang.jpg' | relative_url }}" alt="Minseo Kang">
@@ -211,6 +197,18 @@ nav: false
           <span class="member-role">Undergraduate Researcher</span>
           <p class="member-research">Multimodal Learning<br>Sound Source Localization</p>
           <p class="member-email"><a href="mailto:kms78299@khu.ac.kr">kms78299@khu.ac.kr</a></p>
+        </div>
+      </div>
+
+      <div class="team-member" data-aos="fade-up" data-aos-delay="50">
+        <div class="member-image">
+          <img src="{{ '/assets/img/team/MinsooKang.jpeg' | relative_url }}" alt="Minsoo Kang">
+        </div>
+        <div class="member-content">
+          <h3>Sung Jin Um</h3>
+          <span class="member-role">Undergraduate Researcher</span>
+          <p class="member-research">3D Object Detection</p>
+          <p class="member-email"><a href="mailto:oswin0223@khu.ac.kr">sungzin1@khu.ac.kr</a></p>
         </div>
       </div>
 
