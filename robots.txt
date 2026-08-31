@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://visualaiKHU.github.io/Lab/sitemap.xml
+Sitemap: https://visualai.khu.ac.kr/sitemap.xml
