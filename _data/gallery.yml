@@ -13,9 +13,18 @@
 # ─────────────────────────────────────────────
 
 # ── 2026 ──────────────────────────────────────
+- title: "2026 KCCV"
+  category: study
+  cover: /assets/img/gallery/study/2026/kccv2026/kccv0.jpg
+  images:
+    - /assets/img/gallery/study/2026/kccv2026/kccv0.jpg
+    - /assets/img/gallery/study/2026/kccv2026/kccv1.jpg
+    - /assets/img/gallery/study/2026/kccv2026/kccv2.jpg
+    - /assets/img/gallery/study/2026/kccv2026/kccv3.jpg
+
 - title: "2026 CVPR"
   category: study
-  cover: /assets/img/gallery/study/2026/cvpr2026/CVPR0.jpg
+  cover: /assets/img/gallery/study/2026/cvpr2026/CVPR8.jpg
   images:
     - /assets/img/gallery/study/2026/cvpr2026/CVPR0.jpg
     - /assets/img/gallery/study/2026/cvpr2026/CVPR1.jpg
@@ -25,6 +34,8 @@
     - /assets/img/gallery/study/2026/cvpr2026/CVPR5.jpg
     - /assets/img/gallery/study/2026/cvpr2026/CVPR6.jpg
     - /assets/img/gallery/study/2026/cvpr2026/CVPR7.jpg
+    - /assets/img/gallery/study/2026/cvpr2026/CVPR8.jpg
+    - /assets/img/gallery/study/2026/cvpr2026/CVPR9.jpg
     - /assets/img/gallery/study/2026/cvpr2026/8.jpg
 
 - title: "2026 AAAI"
@@ -83,7 +94,6 @@
   cover: /assets/img/gallery/study/2025/방미공2025(동계)/방미공2025_0.jpg
   images:
     - /assets/img/gallery/study/2025/방미공2025(동계)/방미공2025_0.jpg
-    - /assets/img/gallery/study/2025/방미공2025(동계)/방미공2025_1.jpg
     - /assets/img/gallery/study/2025/방미공2025(동계)/방미공2025_2.jpg
     - /assets/img/gallery/study/2025/방미공2025(동계)/방미공2025_3.jpg
     - /assets/img/gallery/study/2025/방미공2025(동계)/방미공2025_4.jpg

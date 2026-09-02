@@ -40,7 +40,7 @@ nav: false
         <div class="member-content">
           <h3>YuEun Lee</h3>
           <span class="member-role">Int. M.S./Ph.D. Student</span>
-          <p class="member-research">Multimodal Learning<br>Moment Retrieval, Highlight Detection</p>
+          <p class="member-research">Multimodal Learning<br>Moment Retrieval, Video Understanding</p>
           <p class="member-email"><a href="mailto:dbdms8435@khu.ac.kr">dbdms8435@khu.ac.kr</a></p>
         </div>
       </div>
@@ -113,7 +113,7 @@ nav: false
           <span class="member-rep">👑 Student Representative</span>
           <h3>Soyeon Lee</h3>
           <span class="member-role">M.S. Student</span>
-          <p class="member-research">Multimodal Learning<br>Dense Video Captioning, Video QA</p>
+          <p class="member-research">Multimodal Learning<br>Video Understanding, Video QA</p>
           <p class="member-email"><a href="mailto:ynnnxxi@khu.ac.kr">ynnnxxi@khu.ac.kr</a></p>
         </div>
       </div>
@@ -172,7 +172,7 @@ nav: false
         </div>
         <div class="member-content">
           <h3>Haesoo Jung</h3>
-          <span class="member-role">Undergraduate Researcher</span>
+          <span class="member-role">M.S. Student</span>
           <p class="member-research">Medical Image Processing</p>
           <p class="member-email"><a href="mailto:haesu0920@khu.ac.kr">haesu0920@khu.ac.kr</a></p>
         </div>
@@ -208,7 +208,7 @@ nav: false
           <h3>Minsoo Kang</h3>
           <span class="member-role">Undergraduate Researcher</span>
           <p class="member-research">3D Object Detection</p>
-          <p class="member-email"><a href="mailto:oswin0223@khu.ac.kr">sungzin1@khu.ac.kr</a></p>
+          <p class="member-email"><a href="mailto:oswin0223@khu.ac.kr">oswin0223@khu.ac.kr</a></p>
         </div>
       </div>
 
