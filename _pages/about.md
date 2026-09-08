@@ -33,10 +33,7 @@ nav: false
   </div>
 
   <div class="hero-background">
-    <img src="{{ '/assets/img/home/monoWAD_result.gif' | relative_url }}" class="hero-bg-video" alt="" aria-hidden="true">
-    <div class="hero-bg-overlay"></div>
-    <div class="hero-bg-overlay"></div>
-    <div class="hero-bg-overlay-grid"></div>
+    <img src="{{ '/assets/img/home/campus2.jpeg' | relative_url }}" class="hero-bg-video" alt="" aria-hidden="true">
   </div>
 
 </section>
