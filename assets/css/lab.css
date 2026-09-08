@@ -458,24 +458,6 @@ img { max-width: 100%; }
   z-index: 0;
 }
 
-.hero-section .hero-bg-overlay {
-  position: absolute;
-  inset: 0;
-  z-index: 1;
-  background: linear-gradient(180deg, rgba(2,12,25,0.45) 0%, rgba(2,12,25,0.7) 100%);
-}
-
-.hero-section .hero-bg-overlay-grid {
-  position: absolute;
-  inset: 0;
-  z-index: 2;
-  pointer-events: none;
-  background-image:
-    repeating-linear-gradient(45deg, var(--background-color) 0, var(--background-color) 1px, transparent 0, transparent 2px),
-    repeating-linear-gradient(-45deg, var(--background-color) 0, var(--background-color) 1px, transparent 0, transparent 2px);
-  opacity: 0.333;
-}
-
 .hero-section .hero-inner {
   position: relative;
   z-index: 3;
