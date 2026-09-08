@@ -38,7 +38,7 @@ nav: false
               <span class="year">ECCV 2026</span>
             </div>
             <h3>Different Changes Require Different Reasoning: Change-Type-Specialized Experts for Robust Change Captioning</h3>
-            <p class="author">Jiyoung Park, InJae Oh, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Jiyoung Park</b>, <b>InJae Oh</b>, <b>Jung Uk Kim</b></p>
             <p class="description">European Conference on Computer Vision (ECCV), 2026</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2609.01136"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -62,7 +62,7 @@ nav: false
               <span class="year">ECCV 2026</span>
             </div>
             <h3>PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas</h3>
-            <p class="author">Chan Lee, Kimin Yun, Yuseok Bae, Seong Tae Kim, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Chan Lee</b>, Kimin Yun, Yuseok Bae, Seong Tae Kim, <b>Jung Uk Kim</b></p>
             <p class="description">European Conference on Computer Vision (ECCV), 2026</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2608.15230"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -106,7 +106,7 @@ nav: false
               <span class="year">IEEE TIP 2026</span>
             </div>
             <h3>Adverse Weather Removal via Dynamic Enhancement Diffusion with Weather-Adaptive Prompting</h3>
-            <p class="author">Youngmin Oh, Sungyoung Lee, MyeongAh Cho, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Youngmin Oh</b>, Sungyoung Lee, MyeongAh Cho, <b>Jung Uk Kim</b></p>
             <p class="description">IEEE Transactions on Image Processing (TIP, IF: 13.7), 2026</p>
           </div>
         </div>
@@ -123,7 +123,7 @@ nav: false
               <span class="year">CVPR 2026</span>
             </div>
             <h3>Generate, Analyze, and Refine: Training-Free Sound Source Localization via MLLM Meta-Reasoning</h3>
-            <p class="author">Subin Park, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Subin Park</b>, <b>Jung Uk Kim</b></p>
             <p class="description">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2604.06824"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -144,7 +144,7 @@ nav: false
               <span class="year">CVPR 2026</span>
             </div>
             <h3>MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label</h3>
-            <p class="author">Junyoung Jung, Seokwon Kim, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Junyoung Jung</b>, <b>Seokwon Kim</b>, <b>Jung Uk Kim</b></p>
             <p class="description">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2604.01646"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -228,7 +228,7 @@ nav: false
               <span class="year">AAAI 2026</span>
             </div>
             <h3>See, Rank, and Filter: Important Word-Aware Clip Filtering via Scene Understanding for Moment Retrieval and Highlight Detection</h3>
-            <p class="author">YuEun Lee, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>YuEun Lee</b>, <b>Jung Uk Kim</b></p>
             <p class="description">AAAI Conference on Artificial Intelligence (AAAI), 2026</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2511.22906"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -249,7 +249,7 @@ nav: false
               <span class="year">AAAI 2026</span>
             </div>
             <h3>Leveraging Textual Compositional Reasoning for Robust Change Captioning</h3>
-            <p class="author">Kyu Ri Park, Jiyoung Park, Seong Tae Kim, Hong Joo Lee, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Kyu Ri Park</b>, <b>Jiyoung Park</b>, Seong Tae Kim, Hong Joo Lee, <b>Jung Uk Kim</b></p>
             <p class="description">AAAI Conference on Artificial Intelligence (AAAI), 2026</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2511.22903"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -270,7 +270,7 @@ nav: false
               <span class="year">AAAI 2026</span>
             </div>
             <h3>Task Prototype-Based Knowledge Retrieval for Multi-Task Learning from Partially Annotated Data</h3>
-            <p class="author">Youngmin Oh, Hyung-Il Kim, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Youngmin Oh</b>, Hyung-Il Kim, <b>Jung Uk Kim</b></p>
             <p class="description">AAAI Conference on Artificial Intelligence (AAAI), 2026</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2601.07474"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -332,7 +332,7 @@ nav: false
               <span class="year">CVPR 2025</span>
             </div>
             <h3>Object-aware Sound Source Localization via Audio-Visual Scene Understanding</h3>
-            <p class="author">Sung Jin Um, Dongjin Kim, Sangmin Lee, <b>Jung Uk Kim</b></p>
+            <p class="author">Sung Jin Um, <b>Dongjin Kim</b>, Sangmin Lee, <b>Jung Uk Kim</b></p>
             <p class="description">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://openaccess.thecvf.com/content/CVPR2025/papers/Um_Object-aware_Sound_Source_Localization_via_Audio-Visual_Scene_Understanding_CVPR_2025_paper.pdf"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -352,7 +352,7 @@ nav: false
               <span class="year">AAAI 2025</span>
             </div>
             <h3>Multispectral Pedestrian Detection with Sparsely Annotated Label</h3>
-            <p class="author">Chan Lee, Seungho Shin, Gyeong-Moon Park, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Chan Lee</b>, <b>Seungho Shin</b>, Gyeong-Moon Park, <b>Jung Uk Kim</b></p>
             <p class="description">AAAI Conference on Artificial Intelligence (AAAI), 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/abs/2501.02640"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -373,7 +373,7 @@ nav: false
               <span class="year">AAAI 2025</span>
             </div>
             <h3>Watch Video, Catch Keyword: Context-aware Keyword Attention for Moment Retrieval and Highlight Detection</h3>
-            <p class="author">Sung Jin Um, Dongjin Kim, Sangmin Lee, <b>Jung Uk Kim</b></p>
+            <p class="author">Sung Jin Um, <b>Dongjin Kim</b>, Sangmin Lee, <b>Jung Uk Kim</b></p>
             <p class="description">AAAI Conference on Artificial Intelligence (AAAI), 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/abs/2501.02504"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -394,7 +394,7 @@ nav: false
               <span class="year">IEEE TMM 2025</span>
             </div>
             <h3>SSMPD: Semi-Supervised Learning for Multispectral Pedestrian Detection</h3>
-            <p class="author">Seungho Shin, Chan Lee, Gyeong-Moon Park, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Seungho Shin</b>, <b>Chan Lee</b>, Gyeong-Moon Park, <b>Jung Uk Kim</b></p>
             <p class="description">IEEE Transactions on Multimedia (TMM, IF: 9.7), 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11303909"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -479,7 +479,7 @@ nav: false
               <span class="year">2025</span>
             </div>
             <h3>Moment Retrieval and Highlight Detection Framework via Semantic Alignment of Phrases</h3>
-            <p class="author">YuEun Lee, Suyong Choi, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>YuEun Lee</b>, <b>Suyong Choi</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korean Institute of Broadcast and Media Engineers (KIBME), 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1Q5TIwZ7onC0MLlpLLwfH63mPmLr8N1J4/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -499,7 +499,7 @@ nav: false
               <span class="year">2025</span>
             </div>
             <h3>Grounded VideoQA via Optimal Transport-based Fine-Grained</h3>
-            <p class="author">Soyeon Lee, YuEun Lee, Suyong Choi, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Soyeon Lee</b>, <b>YuEun Lee</b>, <b>Suyong Choi</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korean Institute of Broadcast and Media Engineers (KIBME), 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1xx8N63cAW5rvTV_8LCxNhcvTjioPY3XO/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -519,7 +519,7 @@ nav: false
               <span class="year">2025</span>
             </div>
             <h3>Vision Language Model Based Approach for Change Captioning</h3>
-            <p class="author">Jiyoung Park, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Jiyoung Park</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korea Institute of Military Science and Technology (KIMST), 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1826IRj56AOTxD8ypNyGbgef1vyGXjgS8/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -539,7 +539,7 @@ nav: false
               <span class="year">2025</span>
             </div>
             <h3>Mixed Sound Source Localization via Audio-Visual Information Fusion</h3>
-            <p class="author">YuEun Lee, Sung Jin Um, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>YuEun Lee</b>, Sung Jin Um, <b>Jung Uk Kim</b></p>
             <p class="description">Journal of KIISE, 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/16BQ0EOYACr-c_IAmryapxu7uiFZpH5Rz/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -559,7 +559,7 @@ nav: false
               <span class="year">2025</span>
             </div>
             <h3>Video Moment Retrieval and Highlight Detection via Effective Fusion of Captions Generated by Vision-Language Models</h3>
-            <p class="author">YuEun Lee, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>YuEun Lee</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Journal of Broadcast Engineering / KIBME, 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://www.kibme.org/resources/journal/20251201135150302.pdf"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -579,7 +579,7 @@ nav: false
               <span class="year">2025</span>
             </div>
             <h3>The Necessity of Training Strategies for Monocular 3D Object Detection under Adverse Weather Conditions</h3>
-            <p class="author">Junyoung Jung, Seokwon Kim, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Junyoung Jung</b>, <b>Seokwon Kim</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korean Institute of Broadcast and Media Engineers (KIBME), 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1_xZzo4bmTweF_hNjo_9cjpukTKIDkC36/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -599,7 +599,7 @@ nav: false
               <span class="year">2025</span>
             </div>
             <h3>A Semi-Supervised Learning Framework for Rain-Robust Multispectral Pedestrian Detection with Limited Labels</h3>
-            <p class="author">Chan Lee, Seungho Shin, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Chan Lee</b>, <b>Seungho Shin</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korean Institute of Broadcast and Media Engineers (KIBME), 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/19JBTPCdCnbwNsx54llBzagv7JVUhJ_xf/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -619,7 +619,7 @@ nav: false
               <span class="year">2025</span>
             </div>
             <h3>Performance Evaluation and Analysis of Visual Information Removal in Dense Video Captioning</h3>
-            <p class="author">Soyeon Lee, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Soyeon Lee</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korean Institute of Broadcast and Media Engineers (KIBME), 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1wPZPojxlp7kaIHTadfdBqmPzX3hyN_c2/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -639,7 +639,7 @@ nav: false
               <span class="year">2025</span>
             </div>
             <h3>Siamese Network-Based Knowledge Distillation Method for Domain-Robust Visual Question Answering</h3>
-            <p class="author">InJae Oh, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>InJae Oh</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korean Institute of Broadcast and Media Engineers (KIBME), 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1js7IaeyW2C-6uD23N3DvpH0h3ZXbWz_K/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -659,7 +659,7 @@ nav: false
               <span class="year">2025</span>
             </div>
             <h3>Moment Retrieval and Highlight Detection via Keyword Extraction from Natural Language</h3>
-            <p class="author">Suyong Choi, YuEun Lee, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Suyong Choi</b>, <b>YuEun Lee</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korean Institute of Broadcast and Media Engineers (KIBME), 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1GG6EAm3Hz451yghT90vsQ8DHoMB1VvPG/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -679,7 +679,7 @@ nav: false
               <span class="year">2025</span>
             </div>
             <h3>A Real-time Free-Viewpoint Videos Streaming Model Robust to Fast-Moving Objects</h3>
-            <p class="author">Kanghyun Lee, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Kanghyun Lee</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korean Institute of Broadcast and Media Engineers (KIBME), 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1WdIm255T5pyR-W-znyfZN9l9JY_0iYAc/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -699,7 +699,7 @@ nav: false
               <span class="year">2025</span>
             </div>
             <h3>Hierarchical Semantic Prompt Design for Robust Open-Vocabulary Object Detection</h3>
-            <p class="author">Suyong Choi, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Suyong Choi</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Journal of KIISE, 2025</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1szPg2BxqBCM-9dwsCekEUqYZkvwsquYk/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -721,7 +721,7 @@ nav: false
               <span class="year">ECCV 2024</span>
             </div>
             <h3>Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality</h3>
-            <p class="author">Kyu Ri Park, Hong Joo Lee, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Kyu Ri Park</b>, Hong Joo Lee, <b>Jung Uk Kim</b></p>
             <p class="description">European Conference on Computer Vision (ECCV), 2024</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2407.16171"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -741,7 +741,7 @@ nav: false
               <span class="year">ECCV 2024</span>
             </div>
             <h3>MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection</h3>
-            <p class="author">Youngmin Oh, Hyung-Il Kim, Seong Tae Kim, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Youngmin Oh</b>, Hyung-Il Kim, Seong Tae Kim, <b>Jung Uk Kim</b></p>
             <p class="description">European Conference on Computer Vision (ECCV), 2024</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2407.16448"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -782,7 +782,7 @@ nav: false
               <span class="year">CVPR 2024</span>
             </div>
             <h3>Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge</h3>
-            <p class="author">Dongjin Kim, Sung Jin Um, Sangmin Lee, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Dongjin Kim</b>, Sung Jin Um, Sangmin Lee, <b>Jung Uk Kim</b></p>
             <p class="description">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2403.17420"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -802,7 +802,7 @@ nav: false
               <span class="year">ICASSP 2024</span>
             </div>
             <h3>Enhancing Audio-Visual Question Answering with Missing Modality via Trans-Modal Associative Learning</h3>
-            <p class="author">Kyu Ri Park, Youngmin Oh, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Kyu Ri Park</b>, <b>Youngmin Oh</b>, <b>Jung Uk Kim</b></p>
             <p class="description">IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://ieeexplore.ieee.org/abstract/document/10446292"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -822,7 +822,7 @@ nav: false
               <span class="year">IEEE Access 2024</span>
             </div>
             <h3>Robust Airway Generation Labeling with Airway Segmentation for Reliable Airway Assessment</h3>
-            <p class="author">Mincheol Song, Jin An, Kyu Ri Park, Jeongmi Lee, Jinkyeong Park, <b>Jung Uk Kim</b></p>
+            <p class="author">Mincheol Song, Jin An, <b>Kyu Ri Park</b>, Jeongmi Lee, Jinkyeong Park, <b>Jung Uk Kim</b></p>
             <p class="description">IEEE Access, 2024</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10605782"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -844,7 +844,7 @@ nav: false
               <span class="year">2024</span>
             </div>
             <h3>Video Moment Retrieval and Highlight Detection Using Captions Generated by Multimodal Large Language Models</h3>
-            <p class="author">Dongjin Kim, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Dongjin Kim</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korea Software Congress (KSC), 2024</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1I_hoFZZ0E8RExkZm8A6BYe97dsHN0yra/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -864,7 +864,7 @@ nav: false
               <span class="year">2024</span>
             </div>
             <h3>Study For Automatic Pedestrian Data Augmented Learning Technique For Robust Multispectral Pedestrian Detection</h3>
-            <p class="author">Chan Lee, Seungho Shin, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Chan Lee</b>, <b>Seungho Shin</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korea Computer Congress (KCC), 2024</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1orUpnNx_gsBgY7KOBp1qsMc4Tu9C9scG/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -904,7 +904,7 @@ nav: false
               <span class="year">2024</span>
             </div>
             <h3>Robust 3D Object Detection Using 2D-Based Object Detection Information and Symmetry Knowledge</h3>
-            <p class="author">Youngmin Oh, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Youngmin Oh</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Journal of Broadcast Engineering, 2024</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1ttDGb2lUkhCIWzHn2DgDOVFRkNaiVS3F/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -924,7 +924,7 @@ nav: false
               <span class="year">2024</span>
             </div>
             <h3>Efficient Sampling Method for Repetitive Data for Label Data Selection In Multispectral Pedestrian Detection</h3>
-            <p class="author">Seungho Shin, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Seungho Shin</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korean Institute of Broadcast and Media Engineers (KIBME), 2024</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1nl7r1hkfkB3__jVKcCpo48eEqXVyTZ5M/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -944,7 +944,7 @@ nav: false
               <span class="year">2024</span>
             </div>
             <h3>Effective Change Captioning via Feature Map Restoration in Noisy Environments</h3>
-            <p class="author">Jiyoung Park, Kyu Ri Park, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Jiyoung Park</b>, <b>Kyu Ri Park</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korean Institute of Broadcast and Media Engineers (KIBME), 2024</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1RbXSXZZQktTun7Bt7Uf0MgmJpOBXMPOA/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -964,7 +964,7 @@ nav: false
               <span class="year">2024</span>
             </div>
             <h3>Handling Missing Modality Using Multimodal Relational Knowledge</h3>
-            <p class="author">Kyu Ri Park, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Kyu Ri Park</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korea Institute of Military Science and Technology (KIMST), 2024</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1XAdPj0UkAaXRMazmwWY-l96BFREZTMG_/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -986,7 +986,7 @@ nav: false
               <span class="year">ACM MM 2023</span>
             </div>
             <h3>Audio-Visual Spatial Integration and Recursive Attention for Robust Sound Source Localization</h3>
-            <p class="author">Sung Jin Um*, Dongjin Kim*, <b>Jung Uk Kim</b></p>
+            <p class="author">Sung Jin Um*, <b>Dongjin Kim</b>*, <b>Jung Uk Kim</b></p>
             <p class="description">ACM International Conference on Multimedia (ACM MM), 2023</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2308.06087.pdf"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -1108,7 +1108,7 @@ nav: false
               <span class="year">2023</span>
             </div>
             <h3>Multimodal Deep Learning for Korean Fake News Detection</h3>
-            <p class="author">Dongjin Kim, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Dongjin Kim</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korea Software Congress (KSC), 2023</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1DAA3Bd3ACJXlt2lMNIPaseE4RIna3nVj/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -1128,7 +1128,7 @@ nav: false
               <span class="year">2023</span>
             </div>
             <h3>Multimodal Pedestrian Detection Using Attention and Multi Modal Guide</h3>
-            <p class="author">Seungho Shin, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Seungho Shin</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korea Software Congress (KSC), 2023</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1oKsrTziqoqm02ZW6bvy9EjiKFVkcaCM8/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -1148,7 +1148,7 @@ nav: false
               <span class="year">2023</span>
             </div>
             <h3>Single-Modal Pedestrian Detection Leveraging Multimodal Knowledge for Blackout Situations</h3>
-            <p class="author">Seungho Shin, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Seungho Shin</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Journal of KIISE, 2023</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/18aK_VeFIC0L1Qx4hirsUFebGM6z2k8dF/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -1169,7 +1169,7 @@ nav: false
               <span class="year">2023</span>
             </div>
             <h3>Effective 3D Object Detection using 2D Object Detection information</h3>
-            <p class="author">Youngmin Oh, Kyu Ri Park, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Youngmin Oh</b>, <b>Kyu Ri Park</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korean Institute of Broadcast and Media Engineers (KIBME), 2023</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1du6XftlJLrFa3ldeySXzWPZBiUa1tzHa/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -1190,7 +1190,7 @@ nav: false
               <span class="year">2023</span>
             </div>
             <h3>Enhancing Multi-Modal Audio-Visual QA Model Performance via Single Modal Feature Maps with Added Noise Input</h3>
-            <p class="author">Kyu Ri Park, Youngmin Oh, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Kyu Ri Park</b>, <b>Youngmin Oh</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korean Institute of Broadcast and Media Engineers (KIBME), 2023</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/10RkJw4IHQW_N7uCtKu373v9e9NcFlWAt/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
@@ -1212,7 +1212,7 @@ nav: false
               <span class="year">2022</span>
             </div>
             <h3>Automatic Notification of Dangerous Situations in Blind Spots via Image-based Pedestrian Detection using Deep Learning</h3>
-            <p class="author">Kyu Ri Park, <b>Jung Uk Kim</b></p>
+            <p class="author"><b>Kyu Ri Park</b>, <b>Jung Uk Kim</b></p>
             <p class="description">Korea Software Congress (KSC), 2022</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://drive.google.com/file/d/1N3bfgFxXy46C-DRXHRT00YS1dcvHDwDF/view"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
