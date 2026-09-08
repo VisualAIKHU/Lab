@@ -40,6 +40,10 @@ nav: false
             <h3>Different Changes Require Different Reasoning: Change-Type-Specialized Experts for Robust Change Captioning</h3>
             <p class="author">Jiyoung Park, InJae Oh, <b>Jung Uk Kim</b></p>
             <p class="description">European Conference on Computer Vision (ECCV), 2026</p>
+            <div class="link">
+              <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2609.01136"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
+              <a class="btn btn-outline btn-sm" target="_blank" href="https://github.com/VisualAIKHU/MEDIC"><i class="bi bi-globe2"></i> Project</a>
+            </div>
           </div>
         </div>
       </div>
@@ -60,6 +64,10 @@ nav: false
             <h3>PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas</h3>
             <p class="author">Chan Lee, Kimin Yun, Yuseok Bae, Seong Tae Kim, <b>Jung Uk Kim</b></p>
             <p class="description">European Conference on Computer Vision (ECCV), 2026</p>
+            <div class="link">
+              <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2608.15230"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
+              <a class="btn btn-outline btn-sm" target="_blank" href="https://visualaikhu.github.io/PersonaDrive/"><i class="bi bi-globe2"></i> Project</a>
+            </div>
           </div>
         </div>
       </div>
