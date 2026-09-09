@@ -48,11 +48,11 @@ nav: false
       <div class="section-badge">About Us</div>
       <h2>We Build AI that Sees and Understands the World.</h2>
       <p class="lead">
-        Our lab bridges the gap between visual perception and real-world understanding.
-        Driven by advanced Computer Vision and Multimodal AI, our research equips machines to truly understand complex real-world environments.
-        Our research spans <strong style="color:#9c1717;">Multimodal Learning</strong> for joint vision-language-audio understanding,
-        <strong style="color:#9c1717;">Autonomous Driving Perception</strong> for safe scene understanding,
-        and <strong style="color:#9c1717;">Multi-task Learning</strong> for efficient shared representations.
+        Our lab builds intelligent systems that perceive, reason, and act in the real world.
+        Driven by advanced Computer Vision and AI, our research spans three core directions:
+        <strong style="color:#9c1717;">Multimodal AI</strong> for joint understanding across vision, language, and audio,
+        <strong style="color:#9c1717;">Agentic AI</strong> for adaptive reasoning, planning, and autonomous task execution,
+        and <strong style="color:#9c1717;">Autonomous Driving</strong> for robust perception including trajectory prediction, 3D object detection, and pedestrian detection.
         Through these core technologies, we build intelligence that perceives, reasons, and interacts with the world.
       </p>
     </div>
