@@ -41,7 +41,7 @@ nav: false
             <p class="description">European Conference on Computer Vision (ECCV), 2026</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2609.01136"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
-              <a class="btn btn-outline btn-sm" target="_blank" href="https://github.com/VisualAIKHU/MEDIC"><i class="bi bi-globe2"></i> Code</a>
+              <a class="btn btn-outline btn-sm" target="_blank" href="https://github.com/VisualAIKHU/MEDIC"><i class="bi bi-github"></i> Code</a>
             </div>
           </div>
         </div>

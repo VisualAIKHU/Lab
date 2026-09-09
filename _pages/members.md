@@ -76,7 +76,7 @@ nav: false
         <div class="member-content">
           <h3>Yerim Jang</h3>
           <span class="member-role">Int. M.S./Ph.D. Student</span>
-          <p class="member-research">Multimodal Learning<br>Text-to-Motion Generation</p>
+          <p class="member-research">Text-to-Motion Generation</p>
           <p class="member-email"><a href="mailto:dpfla3573@khu.ac.kr">dpfla3573@khu.ac.kr</a></p>
         </div>
       </div>
