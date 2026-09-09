@@ -22,6 +22,8 @@ nav: false
 
     <div class="pub-container">
 
+      
+      <div class="pub-year-divider"><span>2026</span></div>
       <!-- ════════════ 2026 INTERNATIONAL ════════════ -->
 
       <div class="publication-item filter-international" data-aos="fade-up">
@@ -313,6 +315,8 @@ nav: false
         </div>
       </div>
 
+      
+      <div class="pub-year-divider"><span>2025</span></div>
       <!-- ════════════ 2025 INTERNATIONAL ════════════ -->
 
       <div class="publication-item filter-international" data-aos="fade-up">
@@ -702,6 +706,8 @@ nav: false
         </div>
       </div>
 
+      
+      <div class="pub-year-divider"><span>2024</span></div>
       <!-- ════════════ 2024 INTERNATIONAL ════════════ -->
 
       <div class="publication-item filter-international" data-aos="fade-up">
@@ -967,6 +973,8 @@ nav: false
         </div>
       </div>
 
+      
+      <div class="pub-year-divider"><span>2023</span></div>
       <!-- ════════════ 2023 INTERNATIONAL ════════════ -->
 
       <div class="publication-item filter-international" data-aos="fade-up">
@@ -1193,6 +1201,8 @@ nav: false
         </div>
       </div>
 
+      
+      <div class="pub-year-divider"><span>2022</span></div>
       <!-- ════════════ 2022 DOMESTIC ════════════ -->
 
       <div class="publication-item filter-domestic" data-aos="fade-up">

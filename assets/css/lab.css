@@ -1405,6 +1405,35 @@ img { max-width: 100%; }
   box-shadow: 0 4px 12px color-mix(in srgb, var(--accent-color), transparent 70%);
 }
 
+/* Year Divider */
+.pub-year-divider {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 36px 0 20px;
+}
+
+.pub-year-divider:first-child {
+  margin-top: 8px;
+}
+
+.pub-year-divider::before,
+.pub-year-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: color-mix(in srgb, var(--default-color), transparent 80%);
+}
+
+.pub-year-divider span {
+  font-family: var(--heading-font);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--accent-color);
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+
 /* Card */
 .publication .publication-item {
   margin-bottom: 16px;
