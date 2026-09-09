@@ -1321,7 +1321,7 @@ img { max-width: 100%; }
   content: '';
   width: 60px;
   flex: none;
-  height: 2px;
+  height: 1px;
   background: color-mix(in srgb, var(--default-color), transparent 80%);
 }
 
