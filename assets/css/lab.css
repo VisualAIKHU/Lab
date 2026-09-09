@@ -1320,7 +1320,7 @@ img { max-width: 100%; }
 .pub-year-divider::before,
 .pub-year-divider::after {
   content: '';
-  width: 60px;
+  width: 180px;
   flex: none;
   height: 2px;
   background: color-mix(in srgb, var(--default-color), transparent 80%);
