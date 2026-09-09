@@ -1409,6 +1409,7 @@ img { max-width: 100%; }
 .pub-year-divider {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 16px;
   margin: 36px 0 20px;
 }
