@@ -1422,7 +1422,7 @@ img { max-width: 100%; }
   content: '';
   width: 60px;
   flex: none;
-  height: 1px;
+  height: 2px;
   background: color-mix(in srgb, var(--default-color), transparent 80%);
 }
 
