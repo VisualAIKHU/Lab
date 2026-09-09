@@ -27,10 +27,7 @@ nav: false
       <div class="publication-item filter-international" data-aos="fade-up">
         <div class="publication-card">
           <div class="card-image">
-            <div class="pub-placeholder">
-              <span class="venue-abbr">ECCV</span>
-              <span class="venue-year">2026</span>
-            </div>
+            <img src="{{ '/assets/img/publication/2026/2026ECCV-Different-Changes-Require-Different-Reasoning-Change-Type-Specialized-Experts-for-Robust-Change-Captioning.png' | relative_url }}" alt="Different Changes Require Different Reasoning: Change-Type-Specialized Experts for Robust Change Captioning" loading="lazy">
           </div>
           <div class="card-content">
             <div class="meta">
@@ -42,7 +39,7 @@ nav: false
             <p class="description">European Conference on Computer Vision (ECCV), 2026</p>
             <div class="link">
               <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2609.01136"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
-              <a class="btn btn-outline btn-sm" target="_blank" href="https://github.com/VisualAIKHU/MEDIC"><i class="bi bi-globe2"></i> Project</a>
+              <a class="btn btn-outline btn-sm" target="_blank" href="https://github.com/VisualAIKHU/MEDIC"><i class="bi bi-globe2"></i> Code</a>
             </div>
           </div>
         </div>
@@ -51,10 +48,7 @@ nav: false
       <div class="publication-item filter-international" data-aos="fade-up">
         <div class="publication-card">
           <div class="card-image">
-            <div class="pub-placeholder">
-              <span class="venue-abbr">ECCV</span>
-              <span class="venue-year">2026</span>
-            </div>
+            <img src="{{ '/assets/img/publication/2026/2026ECCV-PersonaDrive-Controllable-Trajectory-Prediction-with-Multi-Dimensional-Driving-Personas.png' | relative_url }}" alt="PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas" loading="lazy">
           </div>
           <div class="card-content">
             <div class="meta">
@@ -75,10 +69,7 @@ nav: false
       <div class="publication-item filter-international" data-aos="fade-up">
         <div class="publication-card">
           <div class="card-image">
-            <div class="pub-placeholder">
-              <span class="venue-abbr">ECCV</span>
-              <span class="venue-year">2026</span>
-            </div>
+            <img src="{{ '/assets/img/publication/2026/2026ECCV-Online-Versatile-Incremental-Learning.png' | relative_url }}" alt="Online Versatile Incremental Learning: Towards Class and Domain-Agnostic Adaptation at Any Time" loading="lazy">
           </div>
           <div class="card-content">
             <div class="meta">
@@ -88,6 +79,9 @@ nav: false
             <h3>Online Versatile Incremental Learning: Towards Class and Domain-Agnostic Adaptation at Any Time</h3>
             <p class="author">Jae-Ho Lee, Jun-Yeong Moon, Min-Yeong Park, <b>Jung Uk Kim</b>, Gyeong-Moon Park</p>
             <p class="description">European Conference on Computer Vision (ECCV), 2026</p>
+            <div class="link">
+              <a class="btn btn-outline btn-sm" target="_blank" href="https://arxiv.org/pdf/2409.10956"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
+            </div>
           </div>
         </div>
       </div>
@@ -95,10 +89,7 @@ nav: false
       <div class="publication-item filter-international" data-aos="fade-up">
         <div class="publication-card">
           <div class="card-image">
-            <div class="pub-placeholder">
-              <span class="venue-abbr">TIP</span>
-              <span class="venue-year">2026</span>
-            </div>
+            <img src="{{ '/assets/img/publication/2026/2026_IEEE_TIP.png' | relative_url }}" alt="Adverse Weather Removal via Dynamic Enhancement Diffusion with Weather-Adaptive Prompting" loading="lazy">
           </div>
           <div class="card-content">
             <div class="meta">
@@ -108,6 +99,9 @@ nav: false
             <h3>Adverse Weather Removal via Dynamic Enhancement Diffusion with Weather-Adaptive Prompting</h3>
             <p class="author"><b>Youngmin Oh</b>, Sungyoung Lee, MyeongAh Cho, <b>Jung Uk Kim</b></p>
             <p class="description">IEEE Transactions on Image Processing (TIP, IF: 13.7), 2026</p>
+            <div class="link">
+              <a class="btn btn-outline btn-sm" target="_blank" href="https://ieeexplore.ieee.org/document/11661717"><i class="bi bi-file-earmark-pdf-fill"></i> Paper</a>
+            </div>
           </div>
         </div>
       </div>
