@@ -13,6 +13,13 @@
 # ─────────────────────────────────────────────
 
 # ── 2026 ──────────────────────────────────────
+- title: "2026 ECCV"
+  category: study
+  cover: /assets/img/gallery/study/2026/ECCV2026/eccv0.jpg
+  images:
+    - /assets/img/gallery/study/2026/ECCV2026/eccv0.jpg
+    - /assets/img/gallery/study/2026/ECCV2026/eccv1.jpg
+
 - title: "2026 KCCV"
   category: study
   cover: /assets/img/gallery/study/2026/kccv2026/kccv0.jpg
@@ -208,10 +215,11 @@
 #   cover: ""
 #   images: []
 
-# - title: "2024 한국방송미디어공학회"
-#   category: study
-#   cover: ""
-#   images: []
+- title: "2024 한국방송미디어공학회 (하계)"
+  category: study
+  cover: /assets/img/gallery/study/2024/방미공2024/방송미디어공학회2024.jpg
+  images:
+    - /assets/img/gallery/study/2024/방미공2024/방송미디어공학회2024.jpg
 
 # - title: "2024 한국 정보과학회 KCC"
 #   category: study
@@ -229,15 +237,23 @@
   images:
     - /assets/img/gallery/study/2024/CVPR2024/cvpr202424.png
 
-# - title: "2024 하계 워크샵 (제주도)"
-#   category: daily
-#   cover: ""
-#   images: []
+- title: "2024 하계 워크샵 (제주도)"
+  category: daily
+  cover: /assets/img/gallery/daily/2024/하계MT/mt0.jpg
+  images:
+    - /assets/img/gallery/daily/2024/하계MT/mt0.jpg
+    - /assets/img/gallery/daily/2024/하계MT/mt1.jpg
+    - /assets/img/gallery/daily/2024/하계MT/mt2.jpg
+    - /assets/img/gallery/daily/2024/하계MT/mt3.jpg
+    - /assets/img/gallery/daily/2024/하계MT/mt4.jpg
+    - /assets/img/gallery/daily/2024/하계MT/mt5.jpg
 
-# - title: "2024 스승의날"
-#   category: daily
-#   cover: ""
-#   images: []
+- title: "2024 스승의날"
+  category: daily
+  cover: /assets/img/gallery/daily/2024/스승의날/스승의날0.jpg
+  images:
+    - /assets/img/gallery/daily/2024/스승의날/스승의날0.jpg
+    - /assets/img/gallery/daily/2024/스승의날/스승의날1.jpg
 
 # ── 2023 ──────────────────────────────────────
 # - title: "2023 한국 정보과학회 KCC"
