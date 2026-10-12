@@ -212,6 +212,18 @@ nav: false
         </div>
       </div>
 
+      <div class="team-member" data-aos="fade-up" data-aos-delay="100">
+        <div class="member-image">
+          <img src="{{ '/assets/img/team/Sung%20Jin%20Um.jpg' | relative_url }}" alt="Sung Jin Um">
+        </div>
+        <div class="member-content">
+          <h3>Sung Jin Um</h3>
+          <span class="member-role">Undergraduate Researcher</span>
+          <p class="member-research">Multimodal Learning<br>Sound Source Localization</p>
+          <p class="member-email"><a href="mailto:sungzin1@khu.ac.kr">sungzin1@khu.ac.kr</a></p>
+        </div>
+      </div>
+
     </div><!-- end Undergraduate Students grid -->
 
 
@@ -235,7 +247,7 @@ nav: false
             <td>Jiyoung Park</td>
             <td>M.S.</td>
             <td>2026.02</td>
-            <td></td>
+            <td><span class="now-at">KETI (Korea Electronics Technology Institute)</span></td>
           </tr>
           <tr>
             <td>Seungho Shin</td>
@@ -253,7 +265,7 @@ nav: false
             <td>Youngmin Oh</td>
             <td>M.S.</td>
             <td>2025.02</td>
-            <td><span class="now-at">ETRI</span></td>
+            <td><span class="now-at">ETRI (Electronics and Telecommunications Research Institute)</span></td>
           </tr>
           <tr>
             <td>Dongjin Kim</td>
