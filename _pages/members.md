@@ -144,10 +144,10 @@ nav: false
 
       <div class="team-member" data-aos="fade-up" data-aos-delay="150">
         <div class="member-image">
-          <img src="{{ '/assets/img/team/SeokWon%20Kim.png' | relative_url }}" alt="SeokWon Kim">
+          <img src="{{ '/assets/img/team/SeokWon%20Kim.png' | relative_url }}" alt="Seokwon Kim">
         </div>
         <div class="member-content">
-          <h3>SeokWon Kim</h3>
+          <h3>Seokwon Kim</h3>
           <span class="member-role">M.S. Student</span>
           <p class="member-research">3D Object Detection<br>Autonomous Driving</p>
           <p class="member-email"><a href="mailto:kimsw0683@khu.ac.kr">kimsw0683@khu.ac.kr</a></p>
