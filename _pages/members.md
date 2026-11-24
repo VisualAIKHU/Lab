@@ -137,7 +137,7 @@ nav: false
         <div class="member-content">
           <h3><a href="https://jjung48420.github.io/" target="_blank" rel="noopener" style="color: inherit; text-decoration: none;">Junyoung Jung</a></h3>
           <span class="member-role">M.S. Student</span>
-          <p class="member-research">3D Object Detection</p>
+          <p class="member-research">3D Object Detection<br>Autonomous Driving</p>
           <p class="member-email"><a href="mailto:jun3700@khu.ac.kr">jun3700@khu.ac.kr</a></p>
         </div>
       </div>
@@ -149,7 +149,7 @@ nav: false
         <div class="member-content">
           <h3>SeokWon Kim</h3>
           <span class="member-role">M.S. Student</span>
-          <p class="member-research">3D Object Detection</p>
+          <p class="member-research">3D Object Detection<br>Autonomous Driving</p>
           <p class="member-email"><a href="mailto:kimsw0683@khu.ac.kr">kimsw0683@khu.ac.kr</a></p>
         </div>
       </div>
@@ -161,7 +161,7 @@ nav: false
         <div class="member-content">
           <h3>Heewon Hong</h3>
           <span class="member-role">M.S. Student</span>
-          <p class="member-research">3D Object Detection</p>
+          <p class="member-research">3D Object Detection<br>Autonomous Driving</p>
           <p class="member-email"><a href="mailto:heewon.hong@khu.ac.kr">heewon.hong@khu.ac.kr</a></p>
         </div>
       </div>
