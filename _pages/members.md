@@ -132,10 +132,10 @@ nav: false
 
       <div class="team-member" data-aos="fade-up" data-aos-delay="100">
         <div class="member-image">
-          <img src="{{ '/assets/img/team/Junyoung%20Jung.jpg' | relative_url }}" alt="Junyoung Jung">
+          <a href="https://jjung48420.github.io/" target="_blank" rel="noopener"><img src="{{ '/assets/img/team/Junyoung%20Jung.jpg' | relative_url }}" alt="Junyoung Jung"></a>
         </div>
         <div class="member-content">
-          <h3>Junyoung Jung</h3>
+          <h3><a href="https://jjung48420.github.io/" target="_blank" rel="noopener" style="color: inherit; text-decoration: none;">Junyoung Jung</a></h3>
           <span class="member-role">M.S. Student</span>
           <p class="member-research">3D Object Detection</p>
           <p class="member-email"><a href="mailto:jun3700@khu.ac.kr">jun3700@khu.ac.kr</a></p>
